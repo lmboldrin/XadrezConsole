@@ -12,12 +12,9 @@ namespace tabuleiro
 
         public Posicao(int linha, int coluna)
         {
-            this.Linha = linha;
-            this.Coluna = coluna;
+            Linha = linha;
+            Coluna = coluna;
 
-            
-
-        
         }
         public override string ToString()
         {
