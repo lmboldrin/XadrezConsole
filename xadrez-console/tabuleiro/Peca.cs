@@ -18,5 +18,7 @@ namespace tabuleiro
             this.QtdMovimentos = 0;
             this.Tab = tab;
         }
+
+        
     }
 }
